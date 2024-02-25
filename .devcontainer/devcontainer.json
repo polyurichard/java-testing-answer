@@ -1,0 +1,16 @@
+{
+  "name": "Your Codespace Name",
+  "settings": { 
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "ms-azuretools.vscode-docker",   // Docker extension
+    "ms-python.python",              // Python extension
+    "vscjava.vscode-java-pack",      // Java Extension Pack
+    "mhutchie.git-graph",       // Git Graph extension
+    "GitHub.copilot",                // GitHub Copilot extension
+    "GitHub.copilot-chat",           // GitHub Copilot Chat extension
+    "vmware.vscode-boot-dev-pack",   // Spring Boot Developer Pack extension
+    "anweber.httpbook"               //Httpbook - Rest Client
+  ]
+}
